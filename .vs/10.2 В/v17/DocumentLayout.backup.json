@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs project\\10.2 \u0412\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50844FCB-B833-4154-A536-D37652D4D01B}|UnitTest1\\UnitTest1.vcxproj|D:\\vs project\\10.2 \u0412\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50844FCB-B833-4154-A536-D37652D4D01B}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD49F01-D9C3-4A95-AA46-1333F44CDB0A}|10.2 \u0412\\10.2 \u0412.vcxproj|D:\\vs project\\10.2 \u0412\\10.2 \u0412\\102.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9FD49F01-D9C3-4A95-AA46-1333F44CDB0A}|10.2 \u0412\\10.2 \u0412.vcxproj|solutionrelative:10.2 \u0412\\102.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\vs project\\10.2 \u0412\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\vs project\\10.2 \u0412\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T16:21:18.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "102.cpp",
+              "DocumentMoniker": "D:\\vs project\\10.2 \u0412\\10.2 \u0412\\102.cpp",
+              "RelativeDocumentMoniker": "10.2 \u0412\\102.cpp",
+              "ToolTip": "D:\\vs project\\10.2 \u0412\\10.2 \u0412\\102.cpp",
+              "RelativeToolTip": "10.2 \u0412\\102.cpp",
+              "ViewState": "AgIAABEBAAAAAAAAAAAAACsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T12:15:05.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
